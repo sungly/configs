@@ -1,4 +1,6 @@
 # vs code launch.json
+# ref: https://code.visualstudio.com/docs/nodejs/debugging-recipes#_debug-serverside-javascript-in-nodejs 
+
 {
   "version": "0.2.0",
   "configurations": [
